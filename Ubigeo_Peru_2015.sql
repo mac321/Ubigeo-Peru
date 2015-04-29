@@ -2071,3 +2071,5 @@ insert  into `ubicaciones_peru`(`id`,`CodDep`,`CodProv`,`CodDist`,`Nombre`) valu
 (2057,'25','03','04','SEPAHUA'),
 (2058,'25','04','00','PURUS'),
 (2059,'25','04','01','PURUS');
+
+
